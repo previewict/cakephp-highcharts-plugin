@@ -14,4 +14,7 @@
 		"php": ">=5.3.0",
 		"composer/installers": "*"
 	}
+	"extra": {
+		"installer-name": "HighCharts"
+	}
 }
